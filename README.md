@@ -11,5 +11,4 @@ The idea was simple:
  • Running inference locally in a minimal Flask app
  • Handling file uploads and integrating model logic into a simple backend
  • Debugging common API issues (KeyErrors, method routing, etc.)
-Projects like this make it easier to understand what it actually takes to deploy AI — not just train models. From image upload to output caption, everything is handled in a streamlined local environment.
-Always learning, always building and always open to conversations with folks working on similar things 👩🏻‍💻
+
